@@ -33,7 +33,6 @@ If you need to resize images, you have to use an HTML tag, like this:
 
 ## Data sources and AI methods
 The data will come from the National Gallery of Art in Washinton, D.C. in the United States.
-If you need to use links, here's an example:
 [National Gallery of Art](https://www.nga.gov/open-access-images.html)
 
 ## What next?
